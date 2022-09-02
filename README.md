@@ -1,0 +1,1 @@
+# OpenTelemetryNet6Example
